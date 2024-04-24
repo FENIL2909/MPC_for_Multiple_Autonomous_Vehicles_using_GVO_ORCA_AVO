@@ -9,7 +9,7 @@ This repository demonstrates the implementation of a Model Predictive Controller
 The implemention is done in Python Environment.\
 
 The demonstration for the project and various experiments can be found here:\
-https://youtube.com/playlist?list=PLXBGAyISD6AmZxxhjcWZdMaxmb_QGNCOQ
+https://youtube.com/playlist?list=PLe8-SMlb3iwY93H-a8zOOrw7KH-tUfNru&si=IRAVqH9ZiQa5Sncg
 
 ## REQUIREMENTS:
 ------------------------
